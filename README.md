@@ -1,9 +1,15 @@
-# HELLO RAILS REACT SETUP
+<div align="center">
+
+  <img src="./app/assets/images/icons8-person-48.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>REACT RAILS SETUP</b></h3>
+
+</div>
 
 # 📗 Table of Contents
-- [HELLO RAILS REACT SETUP](#hello-rails-react-setup)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[hello-rails-react\] ](#-hello-rails-react-)
+- [📖 \[BudgetManager\] ](#-budgetmanager-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -17,13 +23,15 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 [hello-rails-react] <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**[hello-rails-react]**
+# 📖 [BudgetManager] <a name="about-project"></a>
 
+**[REACT RAILS SETUP]** 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -38,8 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Boilerplate for integrating react, redux with RoR
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -50,11 +59,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
 ```sh
  sudo apt install postgresql postgresql-contrib
 ```
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -67,20 +74,18 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
 ### Usage
 
 ### Run tests
 
 To run tests, run the following command:
 ``` sh
-  cd hello-rails-react
+  cd BudgetManager
 ```
 
 ``` sh
   rails s
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +120,10 @@ Feel free to check the [issues page](https://github.com/richie1988/Hello_react_r
 If you like this project, please stay tune for more features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- [Microverse Team](https://www.microverse.org/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
