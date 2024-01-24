@@ -1,94 +1,101 @@
-<div align="center">
-
-  <img src="./app/assets/images/icons8-person-48.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>REACT RAILS SETUP</b></h3>
-
-</div>
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
+
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[BudgetManager\] ](#-budgetmanager-)
+- [📖- ✅ HELLO-REACT-FRONT-END](#---hello-react-front-end)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BudgetManager] <a name="about-project"></a>
+# 📖- ✅ HELLO_REACT_RAILS_BACKEND
 
-**[REACT RAILS SETUP]** 
+**hello-react-front-end**
+
 ## 🛠 Built With <a name="built-with"></a>
+
+- ✅ React
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Language</summary>
+  <summary>Language</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/">Ruby</a></li>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
+    <li>JavaScript</li>
   </ul>
 </details>
 
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
+- 🔰 **Static view**
+- 🔰 **Display API response**
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+**To get a local copy up and running, follow these steps.**
+
+1. Download or clone this [https://github.com/richie1988/Hello_react_rails).
+2. Provide a modern web browser.
 
 ### Prerequisites
 
-In order to run this project you need:
+**In order to run this project you need:**
 
-```sh
- sudo apt install postgresql postgresql-contrib
-```
+- ✔ Ruby installed in your machine. you can download it from [here](https://www.ruby-lang.org/en/downloads/)
+- ✔ IDE or a code editor installed in your machine.
+- ✔ A professional editer such as [VS Code](https://code.visualstudio.com/download).
+- ✔ An Updated web browser such as Google Chrome, you can download it from [here](https://www.google.com/chrome/).
+
 ### Setup
 
-Clone this repository to your desired folder:
+- Clone this [repository](https://github.com/richie1988/Hello_react_rails) to your desired folder:
 
-``` sh
-    git clone https://github.com/richie1988/Hello_react_rails
+- Run this command in your command line interface:
+
+```sh
+  cd YOUR_FOLDER
+  git clone https://github.com/richie1988/Hello_react_rails
+  cd hello-react-front-end
+  yarn install
 ```
 
-### Install
-
-Install this project with:
+- Update the ```\.env``` with your API URL
 
 ### Usage
 
-### Run tests
+- To run the project, execute the following command:
 
-To run tests, run the following command:
-``` sh
-  cd BudgetManager
+```sh
+    yarn start
 ```
 
-``` sh
-  rails s
-```
+### Deployment
+
+**This project is deployed by the author, no permission for deployment by any other client.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -97,14 +104,19 @@ To run tests, run the following command:
 - 👤 GitHub: [@Richard Sikaonga](https://github.com/richie1988)
 - 👤 Twitter: [@Richard Sikaonga](https://twitter.com/RichardSikao)
 - 👤 LinkedIn: [@Richad Sikaonga](https://www.linkedin.com/in/richard-sikaonga-039940275/)
+- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Develop the error page]**
-- [ ] **[Improve the UI]**
+- **Add a new page**
+- **Give a style**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -114,22 +126,19 @@ Feel free to check the [issues page](https://github.com/richie1988/Hello_react_r
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please stay tune for more features
+If you like this project, kindly drop a start ⭐️ for the [repository](https://github.com/richie1988/Hello_react_rails);
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [Microverse Team](https://www.microverse.org/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
+I would like to express my heartfelt gratitude to **Microvere** for the invaluable learning experience they have provided.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
