@@ -69,20 +69,16 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-
 ### Usage
-
 ### Run tests
 
 To run tests, run the following command:
 ``` sh
   cd hello-rails-react
 ```
-
 ``` sh
   rails s
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +97,6 @@ To run tests, run the following command:
 - [ ] **[Improve the UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
