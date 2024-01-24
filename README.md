@@ -1,7 +1,7 @@
-<div align="center">
+# HELLO RAILS REACT SETUP
 
-<h2>  Hello Rails <h2>
 # 📗 Table of Contents
+- [HELLO RAILS REACT SETUP](#hello-rails-react-setup)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[hello-rails-react\] ](#-hello-rails-react-)
   - [🛠 Built With ](#-built-with-)
@@ -19,8 +19,6 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [hello-rails-react] <a name="about-project"></a>
 
@@ -69,16 +67,20 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
+
 ### Usage
+
 ### Run tests
 
 To run tests, run the following command:
 ``` sh
   cd hello-rails-react
 ```
+
 ``` sh
   rails s
 ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,6 +99,7 @@ To run tests, run the following command:
 - [ ] **[Improve the UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
